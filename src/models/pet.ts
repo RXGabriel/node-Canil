@@ -95,7 +95,7 @@ const data: Pet[] = [
   },
   {
     type: "fish",
-    image: "neon.jpg",
+    image: "neon.png",
     name: "Tetra Neon",
     color: "Vermelho e Azul",
     sex: "Masculino",
